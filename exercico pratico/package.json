@@ -1,0 +1,21 @@
+{
+"name": "padaria-doce-sabor",
+"version": "1.0.0",
+"description": "Sistema de gerenciamento para padaria",
+"main": "index.js",
+"scripts": {
+    "start": "node index.js",
+    "dev": "node-watch index.js",
+    "info": "node sistema.js",
+    "calc": "node calculadora.js"
+},
+"keywords": [
+    "padaria",
+    "nodejs",
+   "backend" ,
+    "sistema" ,
+    "gerenciamento"
+],
+"author": "Seu Nome Aqui",
+"license": "MIT"
+}
